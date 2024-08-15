@@ -1,0 +1,1 @@
+Simple Traefik reverse proxy setup for Docker containers
